@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abir Mahjoub</h1>
+<h1 align="center">Hi 👋, I'm Abir </h1>
 <h3 align="center">Always coding, always improving</h3>
 
 - 🌱 I’m currently learning **React**
