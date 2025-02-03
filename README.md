@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **abir.fm@outlook.com**
 
-- ⚡ Fun fact **I have never broken a bone**
+- ⚡ Fun fact: **I have never broken a bone**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
