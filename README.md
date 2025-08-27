@@ -1,6 +1,13 @@
-<h1 align="center">Welcome to my Github!</h1>
-<h3 align="center">I'm Abir</h3>
+<h1 align="center">Hello, I'm Abir!</h1>
+<h3 align="center">Always coding, always improving</h3>
 
+- 🌱 I’m currently learning **React**
+
+- 💬 Ask me about **Python!**
+
+- 📫 How to reach me **abir.fm@outlook.com**
+
+- ⚡ Fun fact: **I am minoring in Political Science**
 
 ###
 # Skills & Technologies
@@ -62,23 +69,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abir-mahjoub/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
-###
